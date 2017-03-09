@@ -10,4 +10,4 @@ This is a simplified chatting application, where 2 users (server and client) cha
 
 ## What it looks like while running:
 
-![](https://raw.githubusercontent.com/atabegruslan/Java-Instant-Messenger/master/Illustrations/chat.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Java-Instant-Messenger/master/Illustrations/chat.PNG)
